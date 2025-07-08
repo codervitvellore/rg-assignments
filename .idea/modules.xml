@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CORE JAVA/CORE JAVA.iml" filepath="$PROJECT_DIR$/CORE JAVA/CORE JAVA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CORE JAVA/EmployeeJDBC/EmployeeJDBC.iml" filepath="$PROJECT_DIR$/CORE JAVA/EmployeeJDBC/EmployeeJDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE JAVA/Employee_CRUD/Employee_CRUD.iml" filepath="$PROJECT_DIR$/CORE JAVA/Employee_CRUD/Employee_CRUD.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE JAVA/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/CORE JAVA/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE JAVA/Singleton Example/Singleton Example.iml" filepath="$PROJECT_DIR$/CORE JAVA/Singleton Example/Singleton Example.iml" />
